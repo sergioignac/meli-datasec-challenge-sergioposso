@@ -1,22 +1,102 @@
 2025-10-24 20:20:40 [INFO] [meli_logger] Logger configurado correctamente. Archivo de log: C:\Users\Synergy XP Tech\Desktop\sergio\meli-datasec-challenge-sergioposso\python\logs\app.log
 2025-10-24 20:20:40 [INFO] [meli_logger] Prueba inicial de logging exitosa.
 2025-10-24 20:21:08 [INFO] [python.solution_minesweeper] Logger configurado correctamente. Archivo de log: C:\Users\Synergy XP Tech\Desktop\sergio\meli-datasec-challenge-sergioposso\python\logs\app.log
-2025-10-24 20:21:08 [INFO] [python.solution_minesweeper] Iniciando cálculo de minas para matriz de 3x3
-2025-10-24 20:21:08 [INFO] [python.solution_minesweeper] Cálculo de minas completado correctamente.
+2025-10-24 20:21:08 [INFO] [python.solution_minesweeper] Iniciando cï¿½lculo de minas para matriz de 3x3
+2025-10-24 20:21:08 [INFO] [python.solution_minesweeper] Cï¿½lculo de minas completado correctamente.
 2025-10-24 20:21:08 [ERROR] [python.solution_minesweeper] Valores no permitidos detectados: [0, 2]
 2025-10-24 20:21:08 [ERROR] [python.solution_minesweeper] Filas de diferente longitud detectadas.
 2025-10-24 20:37:50 [INFO] [__main__] Logger configurado correctamente. Archivo de log: C:\Users\Synergy XP Tech\Desktop\sergio\meli-datasec-challenge-sergioposso\python\logs\app.log
-2025-10-24 20:37:50 [INFO] [__main__] Ejecución de prueba en modo standalone.
-2025-10-24 20:37:50 [INFO] [__main__] Iniciando cálculo de minas para matriz de 3x3
+2025-10-24 20:37:50 [INFO] [__main__] Ejecuciï¿½n de prueba en modo standalone.
+2025-10-24 20:37:50 [INFO] [__main__] Iniciando cï¿½lculo de minas para matriz de 3x3
 2025-10-24 20:37:50 [INFO] [__main__] Resultado de la matriz calculada:
 2025-10-24 20:37:50 [INFO] [__main__] [1, 9, 2]
 2025-10-24 20:37:50 [INFO] [__main__] [2, 3, 9]
 2025-10-24 20:37:50 [INFO] [__main__] [9, 2, 1]
 2025-10-24 21:41:05 [INFO] [python.solution_minesweeper] Logger configurado correctamente. Archivo de log: C:\Users\Synergy XP Tech\Desktop\sergio\meli-datasec-challenge-sergioposso\python\logs\app.log
-2025-10-24 21:41:05 [INFO] [python.solution_minesweeper] Iniciando cálculo de minas para matriz de 3x3
+2025-10-24 21:41:05 [INFO] [python.solution_minesweeper] Iniciando cï¿½lculo de minas para matriz de 3x3
 2025-10-24 21:41:05 [INFO] [python.solution_minesweeper] Resultado de la matriz calculada:
 2025-10-24 21:41:05 [INFO] [python.solution_minesweeper] [1, 9, 2]
 2025-10-24 21:41:05 [INFO] [python.solution_minesweeper] [2, 3, 9]
 2025-10-24 21:41:05 [INFO] [python.solution_minesweeper] [9, 2, 1]
 2025-10-24 21:41:05 [ERROR] [python.solution_minesweeper] Valores no permitidos detectados: [0, 2]
 2025-10-24 21:41:05 [ERROR] [python.solution_minesweeper] Filas de diferente longitud detectadas.
+2025-10-25 12:23:27 [INFO] [__main__] Logger configurado correctamente. Archivo de log: C:\Users\Synergy XP Tech\Desktop\sergio\meli-datasec-challenge-sergioposso\python\logs\app.log
+2025-10-25 12:23:27 [INFO] [__main__] Ejecución directa del módulo con parámetro: Romance
+2025-10-25 12:23:27 [INFO] [__main__] Iniciando búsqueda para el género: romance
+2025-10-25 12:23:27 [INFO] [__main__] Solicitando página 1: https://jsonmock.hackerrank.com/api/tvseries?page=1
+2025-10-25 12:23:28 [INFO] [__main__] Solicitando página 2: https://jsonmock.hackerrank.com/api/tvseries?page=2
+2025-10-25 12:23:28 [INFO] [__main__] Solicitando página 3: https://jsonmock.hackerrank.com/api/tvseries?page=3
+2025-10-25 12:23:28 [INFO] [__main__] Solicitando página 4: https://jsonmock.hackerrank.com/api/tvseries?page=4
+2025-10-25 12:23:29 [INFO] [__main__] Solicitando página 5: https://jsonmock.hackerrank.com/api/tvseries?page=5
+2025-10-25 12:23:29 [INFO] [__main__] Solicitando página 6: https://jsonmock.hackerrank.com/api/tvseries?page=6
+2025-10-25 12:23:29 [INFO] [__main__] Solicitando página 7: https://jsonmock.hackerrank.com/api/tvseries?page=7
+2025-10-25 12:23:30 [INFO] [__main__] Solicitando página 8: https://jsonmock.hackerrank.com/api/tvseries?page=8
+2025-10-25 12:23:30 [INFO] [__main__] Solicitando página 9: https://jsonmock.hackerrank.com/api/tvseries?page=9
+2025-10-25 12:23:30 [INFO] [__main__] Solicitando página 10: https://jsonmock.hackerrank.com/api/tvseries?page=10
+2025-10-25 12:23:31 [INFO] [__main__] Solicitando página 11: https://jsonmock.hackerrank.com/api/tvseries?page=11
+2025-10-25 12:23:31 [INFO] [__main__] Solicitando página 12: https://jsonmock.hackerrank.com/api/tvseries?page=12
+2025-10-25 12:23:31 [INFO] [__main__] Solicitando página 13: https://jsonmock.hackerrank.com/api/tvseries?page=13
+2025-10-25 12:23:32 [INFO] [__main__] Solicitando página 14: https://jsonmock.hackerrank.com/api/tvseries?page=14
+2025-10-25 12:23:32 [INFO] [__main__] Solicitando página 15: https://jsonmock.hackerrank.com/api/tvseries?page=15
+2025-10-25 12:23:32 [INFO] [__main__] Solicitando página 16: https://jsonmock.hackerrank.com/api/tvseries?page=16
+2025-10-25 12:23:33 [INFO] [__main__] Solicitando página 17: https://jsonmock.hackerrank.com/api/tvseries?page=17
+2025-10-25 12:23:33 [INFO] [__main__] Solicitando página 18: https://jsonmock.hackerrank.com/api/tvseries?page=18
+2025-10-25 12:23:33 [INFO] [__main__] Solicitando página 19: https://jsonmock.hackerrank.com/api/tvseries?page=19
+2025-10-25 12:23:34 [INFO] [__main__] Solicitando página 20: https://jsonmock.hackerrank.com/api/tvseries?page=20
+2025-10-25 12:23:34 [INFO] [__main__] The 4 highest-rated shows in the Romance genre are:
+2025-10-25 12:23:34 [INFO] [__main__] Friends — 8.9
+2025-10-25 12:23:34 [INFO] [__main__] Downton Abbey — 8.7
+2025-10-25 12:23:34 [INFO] [__main__] This Is Us — 8.7
+2025-10-25 12:23:34 [INFO] [__main__] Modern Family — 8.4
+2025-10-25 12:23:34 [INFO] [__main__] Highest rated show overall: Friends (8.9)
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] Logger configurado correctamente. Archivo de log: C:\Users\Synergy XP Tech\Desktop\sergio\meli-datasec-challenge-sergioposso\python\logs\app.log
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] Iniciando búsqueda para el género: action
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] Solicitando página 1: https://jsonmock.hackerrank.com/api/tvseries?page=1
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] The 4 highest-rated shows in the Action genre are:
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] Show B — 9.0
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] Show A — 8.5
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] Highest rated show overall: Show B (9.0)
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] Iniciando búsqueda para el género: action
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] Solicitando página 1: https://jsonmock.hackerrank.com/api/tvseries?page=1
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] The 4 highest-rated shows in the Action genre are:
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] Alpha — 9.0
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] Beta — 9.0
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] Highest rated show overall: Alpha (9.0)
+2025-10-25 12:36:50 [ERROR] [python.solution_best_in_genre] Argumento 'genre' inválido: None
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] Iniciando búsqueda para el género: action
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] Solicitando página 1: https://jsonmock.hackerrank.com/api/tvseries?page=1
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] The 4 highest-rated shows in the Action genre are:
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] A — 9.3
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] B — 9.2
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] C — 9.1
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] D — 8.9
+2025-10-25 12:36:50 [INFO] [python.solution_best_in_genre] Highest rated show overall: A (9.3)
+2025-10-25 12:38:11 [INFO] [python.solution_best_in_genre] Logger configurado correctamente. Archivo de log: C:\Users\Synergy XP Tech\Desktop\sergio\meli-datasec-challenge-sergioposso\python\logs\app.log
+2025-10-25 12:38:11 [INFO] [python.solution_minesweeper] Logger configurado correctamente. Archivo de log: C:\Users\Synergy XP Tech\Desktop\sergio\meli-datasec-challenge-sergioposso\python\logs\app.log
+2025-10-25 12:38:11 [INFO] [python.solution_best_in_genre] Iniciando búsqueda para el género: action
+2025-10-25 12:38:11 [INFO] [python.solution_best_in_genre] Solicitando página 1: https://jsonmock.hackerrank.com/api/tvseries?page=1
+2025-10-25 12:38:12 [INFO] [python.solution_best_in_genre] Solicitando página 2: https://jsonmock.hackerrank.com/api/tvseries?page=2
+2025-10-25 12:38:12 [INFO] [python.solution_best_in_genre] Solicitando página 3: https://jsonmock.hackerrank.com/api/tvseries?page=3
+2025-10-25 12:38:12 [INFO] [python.solution_best_in_genre] Solicitando página 4: https://jsonmock.hackerrank.com/api/tvseries?page=4
+2025-10-25 12:38:13 [INFO] [python.solution_best_in_genre] Solicitando página 5: https://jsonmock.hackerrank.com/api/tvseries?page=5
+2025-10-25 12:38:13 [INFO] [python.solution_best_in_genre] Solicitando página 6: https://jsonmock.hackerrank.com/api/tvseries?page=6
+2025-10-25 12:38:13 [INFO] [python.solution_best_in_genre] Solicitando página 7: https://jsonmock.hackerrank.com/api/tvseries?page=7
+2025-10-25 12:38:14 [INFO] [python.solution_best_in_genre] Solicitando página 8: https://jsonmock.hackerrank.com/api/tvseries?page=8
+2025-10-25 12:38:14 [INFO] [python.solution_best_in_genre] Solicitando página 9: https://jsonmock.hackerrank.com/api/tvseries?page=9
+2025-10-25 12:38:14 [INFO] [python.solution_best_in_genre] Solicitando página 10: https://jsonmock.hackerrank.com/api/tvseries?page=10
+2025-10-25 12:38:15 [INFO] [python.solution_best_in_genre] Solicitando página 11: https://jsonmock.hackerrank.com/api/tvseries?page=11
+2025-10-25 12:38:15 [INFO] [python.solution_best_in_genre] Solicitando página 12: https://jsonmock.hackerrank.com/api/tvseries?page=12
+2025-10-25 12:38:15 [INFO] [python.solution_best_in_genre] Solicitando página 13: https://jsonmock.hackerrank.com/api/tvseries?page=13
+2025-10-25 12:38:16 [INFO] [python.solution_best_in_genre] Solicitando página 14: https://jsonmock.hackerrank.com/api/tvseries?page=14
+2025-10-25 12:38:16 [INFO] [python.solution_best_in_genre] Solicitando página 15: https://jsonmock.hackerrank.com/api/tvseries?page=15
+2025-10-25 12:38:16 [INFO] [python.solution_best_in_genre] Solicitando página 16: https://jsonmock.hackerrank.com/api/tvseries?page=16
+2025-10-25 12:38:17 [INFO] [python.solution_best_in_genre] Solicitando página 17: https://jsonmock.hackerrank.com/api/tvseries?page=17
+2025-10-25 12:38:17 [INFO] [python.solution_best_in_genre] Solicitando página 18: https://jsonmock.hackerrank.com/api/tvseries?page=18
+2025-10-25 12:38:17 [INFO] [python.solution_best_in_genre] Solicitando página 19: https://jsonmock.hackerrank.com/api/tvseries?page=19
+2025-10-25 12:38:18 [INFO] [python.solution_best_in_genre] Solicitando página 20: https://jsonmock.hackerrank.com/api/tvseries?page=20
+2025-10-25 12:38:18 [INFO] [python.solution_best_in_genre] The 4 highest-rated shows in the Action genre are:
+2025-10-25 12:38:18 [INFO] [python.solution_best_in_genre] Game of Thrones — 9.3
+2025-10-25 12:38:18 [INFO] [python.solution_best_in_genre] Avatar: The Last Airbender — 9.2
+2025-10-25 12:38:18 [INFO] [python.solution_best_in_genre] Hagane no renkinjutsushi — 9.1
+2025-10-25 12:38:18 [INFO] [python.solution_best_in_genre] Shingeki no kyojin — 8.9
+2025-10-25 12:38:18 [INFO] [python.solution_best_in_genre] Highest rated show overall: Game of Thrones (9.3)
