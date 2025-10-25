@@ -231,6 +231,31 @@ Se incluyen casos con datos **mockeados** y pruebas de integración reales contr
 2025-10-25 12:38:18 [INFO] [python.solution_best_in_genre] Highest rated show overall: Game of Thrones (9.3)
 ```
 
+## Reto 3 - SQL: Advertising System Failures Report
+
+### Descripción
+
+Este reto tiene como objetivo identificar los **clientes con más de 3 eventos de fallo (`status = 'failure'`)** en sus campañas publicitarias, dentro del sistema de analítica de HackerAd.  
+El resultado debe mostrar el **nombre completo del cliente** y el **número total de fallos** detectados en sus campañas, ordenado de mayor a menor número de fallos, y alfabéticamente en caso de empate.
+
+El query fue desarrollado en el archivo: **sql/solution_failures_report.sql**
+
+Genera un reporte de clientes con más de 3 eventos de fallo (`status = 'failure'`)
+en sus campañas de publicidad, consolidando los datos de las tablas customers, campaigns y events.
+
+Comportamiento:
+- Agrupa los eventos por cliente.
+- Filtra únicamente los registros con estado 'failure'.
+- Retorna solo los clientes con más de tres fallos.
+- Ordena los resultados por cantidad de fallos (descendente) y nombre del cliente (ascendente).
+
+## Resultado esperado
+
+ **customer**            **failures**
+Whitney Ferrero               6
+
+
+
 ## Enfoque de Seguridad
 
 - Validaciones estrictas sobre entradas de datos.
