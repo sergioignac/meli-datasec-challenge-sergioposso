@@ -1,0 +1,22 @@
+2025-10-24 20:20:40 [INFO] [meli_logger] Logger configurado correctamente. Archivo de log: C:\Users\Synergy XP Tech\Desktop\sergio\meli-datasec-challenge-sergioposso\python\logs\app.log
+2025-10-24 20:20:40 [INFO] [meli_logger] Prueba inicial de logging exitosa.
+2025-10-24 20:21:08 [INFO] [python.solution_minesweeper] Logger configurado correctamente. Archivo de log: C:\Users\Synergy XP Tech\Desktop\sergio\meli-datasec-challenge-sergioposso\python\logs\app.log
+2025-10-24 20:21:08 [INFO] [python.solution_minesweeper] Iniciando cálculo de minas para matriz de 3x3
+2025-10-24 20:21:08 [INFO] [python.solution_minesweeper] Cálculo de minas completado correctamente.
+2025-10-24 20:21:08 [ERROR] [python.solution_minesweeper] Valores no permitidos detectados: [0, 2]
+2025-10-24 20:21:08 [ERROR] [python.solution_minesweeper] Filas de diferente longitud detectadas.
+2025-10-24 20:37:50 [INFO] [__main__] Logger configurado correctamente. Archivo de log: C:\Users\Synergy XP Tech\Desktop\sergio\meli-datasec-challenge-sergioposso\python\logs\app.log
+2025-10-24 20:37:50 [INFO] [__main__] Ejecución de prueba en modo standalone.
+2025-10-24 20:37:50 [INFO] [__main__] Iniciando cálculo de minas para matriz de 3x3
+2025-10-24 20:37:50 [INFO] [__main__] Resultado de la matriz calculada:
+2025-10-24 20:37:50 [INFO] [__main__] [1, 9, 2]
+2025-10-24 20:37:50 [INFO] [__main__] [2, 3, 9]
+2025-10-24 20:37:50 [INFO] [__main__] [9, 2, 1]
+2025-10-24 21:41:05 [INFO] [python.solution_minesweeper] Logger configurado correctamente. Archivo de log: C:\Users\Synergy XP Tech\Desktop\sergio\meli-datasec-challenge-sergioposso\python\logs\app.log
+2025-10-24 21:41:05 [INFO] [python.solution_minesweeper] Iniciando cálculo de minas para matriz de 3x3
+2025-10-24 21:41:05 [INFO] [python.solution_minesweeper] Resultado de la matriz calculada:
+2025-10-24 21:41:05 [INFO] [python.solution_minesweeper] [1, 9, 2]
+2025-10-24 21:41:05 [INFO] [python.solution_minesweeper] [2, 3, 9]
+2025-10-24 21:41:05 [INFO] [python.solution_minesweeper] [9, 2, 1]
+2025-10-24 21:41:05 [ERROR] [python.solution_minesweeper] Valores no permitidos detectados: [0, 2]
+2025-10-24 21:41:05 [ERROR] [python.solution_minesweeper] Filas de diferente longitud detectadas.
