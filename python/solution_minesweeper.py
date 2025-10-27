@@ -3,9 +3,6 @@ solution_minesweeper.py
 -----------------------
 Solución al reto Minesweeper (parte 1 del challenge técnico).
 
-Autor: Sergio Ignacio Posso Alvarez
-Go Version: Python 3.14.0
-
 Objetivo:
 A partir de una matriz binaria (0 = celda vacía, 1 = mina),
 retorna una nueva matriz donde cada celda indica el número
