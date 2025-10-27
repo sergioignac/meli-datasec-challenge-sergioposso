@@ -4,6 +4,9 @@ solution_best_in_genre.py
 Busca la serie con mayor IMDB rating para un género dado,
 usando la API pública: https://jsonmock.hackerrank.com/api/tvseries
 
+Autor: Sergio Ignacio Posso Alvarez
+Go Version: Python 3.14.0
+
 Comportamiento:
 - Pagina todos los resultados.
 - Normaliza el campo `genre` (coma-separado).
